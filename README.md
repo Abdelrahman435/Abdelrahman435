@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abdelrahman Hassan
+#  Abdelrahman Hassan
 
 ### Backend Engineer | Node.js & TypeScript Specialist | Fintech Systems Architect
 
@@ -15,21 +15,21 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a **backend engineer** passionate about architecting **scalable, production-ready systems** that power real-world applications at scale. With deep expertise in **Node.js, TypeScript, and modern backend architecture**, I specialize in designing and implementing **fintech solutions, payment systems, and high-performance distributed systems** that handle millions of transactions.
 
 I believe in:
 
-- 💻 Writing **clean, maintainable, well-tested code**
-- 🎯 Following **industry best practices** and design patterns
-- 🔒 Building **secure, reliable systems** that scale
-- 🤝 Solving **complex engineering challenges** collaboratively
-- ☕ Enjoying a good cup of coffee while debugging
+-  Writing **clean, maintainable, well-tested code**
+-  Following **industry best practices** and design patterns
+-  Building **secure, reliable systems** that scale
+-  Solving **complex engineering challenges** collaboratively
+-  Enjoying a good cup of coffee while debugging
 
 ---
 
-## 📈 Quick Facts
+##  Quick Facts
 
 <div align="center">
 
@@ -43,20 +43,20 @@ I believe in:
 
 ---
 
-## 💼 Core Expertise
+##  Core Expertise
 
 | **Domain**                     | **Skills**                                                  |
 | :----------------------------- | :---------------------------------------------------------- |
-| 🔧 **Backend Development**     | Node.js, TypeScript, REST APIs, GraphQL, Microservices      |
-| 💳 **Fintech & Payments**      | Stripe Integration, Payment Processing, Transaction Systems |
-| 🗄️ **Databases**               | MongoDB, PostgreSQL, Redis, Database Optimization           |
-| 🐳 **DevOps & Infrastructure** | Docker, Kubernetes, Cloud Deployment, CI/CD                 |
-| 📱 **Cross-Platform**          | Flutter, Firebase, Real-time Systems                        |
-| 🔐 **System Design**           | Authentication, Authorization, Security Best Practices      |
+|  **Backend Development**     | Node.js, TypeScript, REST APIs, GraphQL, Microservices      |
+|  **Fintech & Payments**      | Stripe Integration, Payment Processing, Transaction Systems |
+|  **Databases**               | MongoDB, PostgreSQL, Redis, Database Optimization           |
+|  **DevOps & Infrastructure** | Docker, Kubernetes, Cloud Deployment, CI/CD                 |
+|  **Cross-Platform**          | Flutter, Firebase, Real-time Systems                        |
+|  **System Design**           | Authentication, Authorization, Security Best Practices      |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 
@@ -94,7 +94,7 @@ I believe in:
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -108,39 +108,39 @@ I believe in:
 
 ---
 
-## 🏆 Key Projects & Experience
+##  Key Projects & Experience
 
-### **🏦 Financial Systems**
+### ** Financial Systems**
 
 Building the backbone of fintech platforms:
 
-- ✅ **Production-grade payment processing** with Stripe integration
-- ✅ **Scalable transaction management** systems handling 100K+ daily transactions
-- ✅ **Secure fintech backends** with bank-level encryption and compliance standards
-- ✅ **Real-time payment reconciliation** and settlement systems
+-  **Production-grade payment processing** with Stripe integration
+-  **Scalable transaction management** systems handling 100K+ daily transactions
+-  **Secure fintech backends** with bank-level encryption and compliance standards
+-  **Real-time payment reconciliation** and settlement systems
 
-### **🏗️ Platform Architecture**
+### ** Platform Architecture**
 
 Enterprise-scale distributed systems:
 
-- 🎫 **Booking Systems**: Real-time availability, reservation engines, concurrent operations
-- 🚚 **Delivery Systems**: Order tracking, route optimization, real-time GPS integration
-- 🤖 **AI-Integrated Applications**: ML model serving, intelligent decision engines
-- 🛍️ **E-commerce Platforms**: High-traffic catalogs, cart systems, checkout flows
+-  **Booking Systems**: Real-time availability, reservation engines, concurrent operations
+-  **Delivery Systems**: Order tracking, route optimization, real-time GPS integration
+-  **AI-Integrated Applications**: ML model serving, intelligent decision engines
+-  **E-commerce Platforms**: High-traffic catalogs, cart systems, checkout flows
 
-### **⚙️ Technical Achievements**
+### ** Technical Achievements**
 
-- 🔄 Architected **microservices** with message queues (RabbitMQ, Kafka) and event-driven design
-- ⚡ Implemented **caching strategies** using Redis for sub-100ms responses
-- 📡 Built **RESTful APIs** handling thousands of requests per second with 99.9% uptime
-- 🗄️ Designed **normalized and optimized database schemas** for complex business logic
-- 🔐 Implemented **enterprise authentication & authorization** (JWT, OAuth2, SAML)
-- 📈 Optimized database queries reducing latency by 70%+
-- 🚀 Deployed systems to production on AWS, GCP, and Azure
+-  Architected **microservices** with message queues (RabbitMQ, Kafka) and event-driven design
+-  Implemented **caching strategies** using Redis for sub-100ms responses
+-  Built **RESTful APIs** handling thousands of requests per second with 99.9% uptime
+-  Designed **normalized and optimized database schemas** for complex business logic
+-  Implemented **enterprise authentication & authorization** (JWT, OAuth2, SAML)
+-  Optimized database queries reducing latency by 70%+
+-  Deployed systems to production on AWS, GCP, and Azure
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Science** in Computers and Artificial Intelligence  
 **Faculty of Computers and Artificial Intelligence** | Helwan University  
@@ -150,22 +150,22 @@ _Specialized in backend systems, distributed computing, and software architectur
 
 ---
 
-## 💼 Open for Collaboration
+##  Open for Collaboration
 
 <div align="center">
 
 **I'm interested in:**
 
-- 🚀 Building scalable backend systems
-- 💳 Fintech & payment processing challenges
-- 🤝 Technical mentoring & knowledge sharing
-- 📚 Open-source contributions
+-  Building scalable backend systems
+-  Fintech & payment processing challenges
+-  Technical mentoring & knowledge sharing
+-  Open-source contributions
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with fellow engineers, discussing backend architecture, and exploring innovative solutions to complex problems.
 
@@ -175,7 +175,7 @@ I'm always interested in connecting with fellow engineers, discussing backend ar
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah0383723@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman435)
 
-**Have a cool project? Let's talk!** 💬
+**Have a cool project? Let's talk!** 
 
 </div>
 
@@ -183,9 +183,9 @@ I'm always interested in connecting with fellow engineers, discussing backend ar
 
 <div align="center">
 
-### 💡 _"Building systems that scale. Solving problems that matter."_
+### _"Building systems that scale. Solving problems that matter."_
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/Abdelrahman435)
+[![Made with](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/Abdelrahman435)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue?style=flat-square)
 
 </div>
