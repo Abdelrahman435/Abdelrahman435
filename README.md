@@ -34,7 +34,7 @@ What I care about:
 |      **Experience**      |       **Focus**        |         **Stack**          |
 | :-----------------------: | :---------------------: | :-------------------------: |
 |  ~3 Years Backend Dev *(adjust if off)*  |  Fintech & Payment Systems  |  Node.js · NestJS · .NET  |
-|  6+ Shipped Projects  |  Microservices & APIs  |  PostgreSQL · MySQL · MongoDB  |
+|  6 Projects Built  |  Microservices & APIs  |  PostgreSQL · MySQL · MongoDB  |
 |  80%+ Test Coverage (Jest)  |  Security & RBAC  |  Docker · Stripe · Paymob  |
 
 </div>
@@ -48,11 +48,12 @@ What I care about:
 | **Domain**              | **Skills**                                                        |
 | :----------------------- | :------------------------------------------------------------------ |
 | **Backend Development**  | Node.js, NestJS, Express.js, TypeScript, .NET (ASP.NET Core, C#)   |
-| **Fintech & Payments**   | Stripe, Paymob, secure transaction processing                     |
-| **Databases**            | PostgreSQL, MySQL (Prisma), MongoDB, SQL Server, SQLite            |
-| **DevOps & Cloud**       | Docker, AWS, Firebase, Heroku, Render                              |
-| **Architecture**         | Microservices, RESTful APIs, GraphQL, gRPC, RBAC                  |
-| **Messaging & Queues**   | RabbitMQ, Apache Kafka                                             |
+| **Databases & ORMs**     | PostgreSQL, MySQL, MongoDB, SQL Server, SQLite, Prisma             |
+| **Architecture & APIs**  | Microservices, RESTful APIs, GraphQL, gRPC                        |
+| **Messaging**            | RabbitMQ, Apache Kafka                                             |
+| **Security & Auth**      | JWT, Role-Based Access Control (RBAC)                              |
+| **Payments & Integrations** | Stripe, Paymob, Cloudinary, Mailgun                             |
+| **Cloud & DevOps**       | Docker, AWS, Firebase, Heroku, Render                              |
 | **Testing & Quality**    | Jest (unit & integration, 80%+ coverage)                          |
 | **Also Working With**    | PHP (Laravel), Python (Flask)                                      |
 
@@ -85,8 +86,10 @@ What I care about:
 
 ### Payments & Integrations
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### Cloud & Platform Services
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,14 +99,9 @@ What I care about:
 
 ### Messaging & Architecture
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-1F3A5F?style=for-the-badge)
-
-### Messaging & Microservices
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1F3A5F?style=for-the-badge)
 
 ---
 
