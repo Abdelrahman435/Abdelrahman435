@@ -133,10 +133,6 @@ Microservices architecture (NestJS + MySQL) for camel sales, processing, and tra
 Full-scale restaurant app with table reservations and real-time chat (Express.js), using a hybrid PostgreSQL + MongoDB strategy for relational bookings and flexible chat logs.
 🔗 [Live Site](https://www.tuxedo.app/)
 
-### 🚗 Drivion — Ride-Hailing & Delivery Backend
-Node.js/Express/MongoDB backend with driver availability tracking, real-time booking, trip management, Stripe payments, and Firebase push notifications.
-🔗 [Link pending — send me the URL]
-
 ### 🎓 ExamGuards.AI — Graduation Project
 Hybrid Node.js + Flask backend for real-time exam monitoring, integrating ML models to detect academic dishonesty.
 🔗 [Link pending — send me the URL]
