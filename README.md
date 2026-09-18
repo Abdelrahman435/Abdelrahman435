@@ -51,7 +51,8 @@ What I care about:
 | **Fintech & Payments**   | Stripe, Paymob, secure transaction processing                     |
 | **Databases**            | PostgreSQL, MySQL (Prisma), MongoDB, SQL Server, SQLite            |
 | **DevOps & Cloud**       | Docker, AWS, Firebase, Heroku, Render                              |
-| **Architecture**         | Microservices, RESTful APIs, GraphQL, RBAC                        |
+| **Architecture**         | Microservices, RESTful APIs, GraphQL, gRPC, RBAC                  |
+| **Messaging & Queues**   | RabbitMQ, Apache Kafka                                             |
 | **Testing & Quality**    | Jest (unit & integration, 80%+ coverage)                          |
 | **Also Working With**    | PHP (Laravel), Python (Flask)                                      |
 
@@ -93,6 +94,17 @@ What I care about:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Messaging & Architecture
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-1F3A5F?style=for-the-badge)
+
+### Messaging & Microservices
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ---
 
 ## GitHub Statistics
@@ -112,23 +124,28 @@ What I care about:
 ## Featured Projects
 
 ### 🧳 Rizervo — Travel Booking Platform
-Backend for a travel and reservations platform handling bookings and related business logic.
+Microservices-based backend for a travel and reservations platform, using RabbitMQ for asynchronous inter-service communication across bookings and related business logic.
 🔗 [Live Demo](https://rizervo-travel-website-dev.dafagate.com/ar)
 
 ### 🐫 IBBIL — Microservices Camel Commerce & Logistics
-Microservices architecture (NestJS + MySQL) for camel sales, processing, and transportation logistics, containerized with Docker for scalable deployment.
+Microservices architecture (NestJS + MySQL) for camel sales, processing, and transportation logistics, using RabbitMQ for inter-service messaging and Docker for containerized, scalable deployment.
+🔗 [Live Site](https://ibbil.com/)
 
 ### 🍽️ Tuxedo — Restaurant Management & Reservation System
 Full-scale restaurant app with table reservations and real-time chat (Express.js), using a hybrid PostgreSQL + MongoDB strategy for relational bookings and flexible chat logs.
+🔗 [Live Site](https://www.tuxedo.app/)
 
 ### 🚗 Drivion — Ride-Hailing & Delivery Backend
 Node.js/Express/MongoDB backend with driver availability tracking, real-time booking, trip management, Stripe payments, and Firebase push notifications.
+🔗 [Link pending — send me the URL]
 
 ### 🎓 ExamGuards.AI — Graduation Project
 Hybrid Node.js + Flask backend for real-time exam monitoring, integrating ML models to detect academic dishonesty.
+🔗 [Link pending — send me the URL]
 
 ### 🛍️ Online Shopping — E-commerce Platform
 E-commerce backend with Stripe integration and an AI-based clothes-fitting feature (Node.js + Flask image processing).
+🔗 [Link pending — send me the URL]
 
 ---
 
