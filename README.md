@@ -1,100 +1,101 @@
 <div align="center">
 
-#  Abdelrahman Hassan
+# Abd El Rahman Hassan Abbas
 
-### Backend Engineer | Node.js & TypeScript Specialist | Fintech Systems Architect
+### Backend Engineer · Node.js, NestJS & .NET · Fintech & Payments
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman435&style=flat-square&color=0891b2)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-rahman-hassan-1ba1ab237)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ah0383723@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanhassanabbas/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.hassan.abbas@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Abdelrahman435)
 
-**[Portfolio](https://github.com/Abdelrahman435?tab=repositories) • [Blog](#) • [Resume](#)**
-
----
+**[Resume](#) • [Portfolio](https://github.com/Abdelrahman435?tab=repositories)**
 
 </div>
 
-##  About Me
+---
 
-I'm a **backend engineer** passionate about architecting **scalable, production-ready systems** that power real-world applications at scale. With deep expertise in **Node.js, TypeScript, and modern backend architecture**, I specialize in designing and implementing **fintech solutions, payment systems, and high-performance distributed systems** that handle millions of transactions.
+## About Me
 
-I believe in:
+I'm a backend engineer specializing in **Node.js, NestJS, and TypeScript**, with growing hands-on experience in **.NET (C#)**. I build scalable, secure server-side systems following Clean Architecture principles — currently working on payment processing infrastructure, with previous experience across microservices, RESTful/GraphQL APIs, and fintech integrations (Stripe, Paymob).
 
--  Writing **clean, maintainable, well-tested code**
--  Following **industry best practices** and design patterns
--  Building **secure, reliable systems** that scale
--  Solving **complex engineering challenges** collaboratively
--  Enjoying a good cup of coffee while debugging
+What I care about:
+- Clean, tested, maintainable code (Jest, 80%+ coverage on production projects)
+- Secure-by-default systems — RBAC, JWT, proper auth boundaries
+- Microservices and API design that scales without overengineering
+- Shipping things that actually go to production, not just prototypes
 
 ---
 
-##  Quick Facts
+## Quick Facts
 
 <div align="center">
 
-|       **Expertise**        |        **Focus**         |     **Philosophy**     |
-| :------------------------: | :----------------------: | :--------------------: |
-|  **5+ Years** Backend Dev  | **Node.js + TypeScript** | **Scalability First**  |
-| **100K+** Transactions/Day |   **Fintech Systems**    | **Quality Over Speed** |
-|  **15+ Deployed** Systems  |  **Payment Processing**  |  **Security Always**   |
+|      **Experience**      |       **Focus**        |         **Stack**          |
+| :-----------------------: | :---------------------: | :-------------------------: |
+|  ~3 Years Backend Dev *(adjust if off)*  |  Fintech & Payment Systems  |  Node.js · NestJS · .NET  |
+|  6+ Shipped Projects  |  Microservices & APIs  |  PostgreSQL · MySQL · MongoDB  |
+|  80%+ Test Coverage (Jest)  |  Security & RBAC  |  Docker · Stripe · Paymob  |
 
 </div>
 
----
-
-##  Core Expertise
-
-| **Domain**                     | **Skills**                                                  |
-| :----------------------------- | :---------------------------------------------------------- |
-|  **Backend Development**     | Node.js, TypeScript, REST APIs, GraphQL, Microservices      |
-|  **Fintech & Payments**      | Stripe Integration, Payment Processing, Transaction Systems |
-|  **Databases**               | MongoDB, PostgreSQL, Redis, Database Optimization           |
-|  **DevOps & Infrastructure** | Docker, Kubernetes, Cloud Deployment, CI/CD                 |
-|  **Cross-Platform**          | Flutter, Firebase, Real-time Systems                        |
-|  **System Design**           | Authentication, Authorization, Security Best Practices      |
+> *Swap in real numbers here (transactions/day, uptime, latency improvements) once you have concrete metrics from production — that's what makes this table credible rather than decorative.*
 
 ---
 
-##  Tech Stack
+## Core Expertise
 
-### **Languages**
+| **Domain**              | **Skills**                                                        |
+| :----------------------- | :------------------------------------------------------------------ |
+| **Backend Development**  | Node.js, NestJS, Express.js, TypeScript, .NET (ASP.NET Core, C#)   |
+| **Fintech & Payments**   | Stripe, Paymob, secure transaction processing                     |
+| **Databases**            | PostgreSQL, MySQL (Prisma), MongoDB, SQL Server, SQLite            |
+| **DevOps & Cloud**       | Docker, AWS, Firebase, Heroku, Render                              |
+| **Architecture**         | Microservices, RESTful APIs, GraphQL, RBAC                        |
+| **Testing & Quality**    | Jest (unit & integration, 80%+ coverage)                          |
+| **Also Working With**    | PHP (Laravel), Python (Flask)                                      |
 
+---
+
+## Tech Stack
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-### **Backend & Frameworks**
-
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Databases & Caching**
-
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Payments & Integrations**
-
+### Payments & Integrations
 ![Stripe](https://img.shields.io/badge/-Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-00BCD4?style=for-the-badge&logo=openapi&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### **DevOps & Tools**
-
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-##  GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -108,84 +109,70 @@ I believe in:
 
 ---
 
-##  Key Projects & Experience
+## Featured Projects
 
-### ** Financial Systems**
+### 🧳 Rizervo — Travel Booking Platform
+Backend for a travel and reservations platform handling bookings and related business logic.
+🔗 [Live Demo](https://rizervo-travel-website-dev.dafagate.com/ar)
 
-Building the backbone of fintech platforms:
+### 🐫 IBBIL — Microservices Camel Commerce & Logistics
+Microservices architecture (NestJS + MySQL) for camel sales, processing, and transportation logistics, containerized with Docker for scalable deployment.
 
--  **Production-grade payment processing** with Stripe integration
--  **Scalable transaction management** systems handling 100K+ daily transactions
--  **Secure fintech backends** with bank-level encryption and compliance standards
--  **Real-time payment reconciliation** and settlement systems
+### 🍽️ Tuxedo — Restaurant Management & Reservation System
+Full-scale restaurant app with table reservations and real-time chat (Express.js), using a hybrid PostgreSQL + MongoDB strategy for relational bookings and flexible chat logs.
 
-### ** Platform Architecture**
+### 🚗 Drivion — Ride-Hailing & Delivery Backend
+Node.js/Express/MongoDB backend with driver availability tracking, real-time booking, trip management, Stripe payments, and Firebase push notifications.
 
-Enterprise-scale distributed systems:
+### 🎓 ExamGuards.AI — Graduation Project
+Hybrid Node.js + Flask backend for real-time exam monitoring, integrating ML models to detect academic dishonesty.
 
--  **Booking Systems**: Real-time availability, reservation engines, concurrent operations
--  **Delivery Systems**: Order tracking, route optimization, real-time GPS integration
--  **AI-Integrated Applications**: ML model serving, intelligent decision engines
--  **E-commerce Platforms**: High-traffic catalogs, cart systems, checkout flows
-
-### ** Technical Achievements**
-
--  Architected **microservices** with message queues (RabbitMQ, Kafka) and event-driven design
--  Implemented **caching strategies** using Redis for sub-100ms responses
--  Built **RESTful APIs** handling thousands of requests per second with 99.9% uptime
--  Designed **normalized and optimized database schemas** for complex business logic
--  Implemented **enterprise authentication & authorization** (JWT, OAuth2, SAML)
--  Optimized database queries reducing latency by 70%+
--  Deployed systems to production on AWS, GCP, and Azure
+### 🛍️ Online Shopping — E-commerce Platform
+E-commerce backend with Stripe integration and an AI-based clothes-fitting feature (Node.js + Flask image processing).
 
 ---
 
-##  Education
+## Professional Experience
 
-**Bachelor of Science** in Computers and Artificial Intelligence  
-**Faculty of Computers and Artificial Intelligence** | Helwan University  
-Grade: Excellent (Very Good)
-
-_Specialized in backend systems, distributed computing, and software architecture_
+- **Backend Developer (Node.js & NestJS)** — Dafa · *Jan 2026 – Present*
+  Payment processing systems, financial transaction APIs, third-party gateway integrations.
+- **Backend Developer — Node.js & NestJS** — Make Your Miracle (MYM) · *Nov 2023 – 2025*
+  Promoted from intern to full-time. Scalable APIs, JWT/RBAC security, 80%+ Jest coverage.
 
 ---
 
-##  Open for Collaboration
+## Education
+
+**Bachelor of Computer and Artificial Intelligence** — Helwan University
+Major: Computer Science · Minor: Information Systems · *2020 – 2024*
+
+---
+
+## Open for Collaboration
 
 <div align="center">
 
-**I'm interested in:**
-
--  Building scalable backend systems
--  Fintech & payment processing challenges
--  Technical mentoring & knowledge sharing
--  Open-source contributions
+**Interested in:**
+Scalable backend systems · Fintech & payment processing · Open-source contributions · Technical discussions
 
 </div>
 
 ---
 
-##  Let's Connect
-
-I'm always interested in connecting with fellow engineers, discussing backend architecture, and exploring innovative solutions to complex problems.
+## Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-el-rahman-hassan-1ba1ab237)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah0383723@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanhassanabbas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.hassan.abbas@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman435)
 
-**Have a cool project? Let's talk!** 
-
 </div>
-
----
 
 <div align="center">
 
-### _"Building systems that scale. Solving problems that matter."_
+### *Building systems that scale. Solving problems that matter.*
 
-[![Made with](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)](https://github.com/Abdelrahman435)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-September%202026-blue?style=flat-square)
 
 </div>
